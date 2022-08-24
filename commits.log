@@ -1,0 +1,104 @@
+commit ffe13458e04d6b0bd01a253d6d7a57868503e64c
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 22:22:26 2022 +0800
+
+    deleted
+
+commit 1011fbf838f9f4b9275a179f0859eeb8dde37212
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 22:19:37 2022 +0800
+
+    añadiendo parrafo
+
+commit 00f553dfc804240bd1d6281da544428505bd57ed
+Merge: 1f71851 58ad348
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 22:11:33 2022 +0800
+
+    nuevo cambio
+
+commit 1f7185166691cd9e888213903f8e4de8b2aef496
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 21:23:58 2022 +0800
+
+    estaciones del año con fecha
+
+commit 58ad348771ac87e9a9a6fd2673968f04a2b54d3f
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 21:23:58 2022 +0800
+
+    agregando las estaciones del año
+
+commit f5787166fb267154fab8403281a5f8b8612f194b
+Merge: e4d133c 97c1f94
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 21:05:23 2022 +0800
+
+    resolviendo problemas de merging
+
+commit 97c1f94382c4fd60912b6482fb916d821f8e1288
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 20:52:03 2022 +0800
+
+    agregando index.js al index.html
+
+commit e4d133c0709547edc5e7317da325b3a4b616762d
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 20:47:56 2022 +0800
+
+    agregando style.css al index.html
+
+commit ab99d11421b28ee722a00f3b847c4f3c0762b43f
+Merge: dea7843 de60684
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 20:20:47 2022 +0800
+
+    Merge branch 'js'
+
+commit de60684412fb0c1b63fd169966033fba8890c1c5
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 19:58:38 2022 +0800
+
+    aheriendo js
+
+commit dea7843af85bbe24d618be6f305ce15ff171df6e
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 19:47:06 2022 +0800
+
+    creando style.css
+
+commit 16610a192f3660f40f4162d7e50b36e34c5e8a0b
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Wed Aug 24 19:33:15 2022 +0800
+
+    Creando index.html
+
+commit 3ebc27624fadbcc6c9f56020ffebeee41b23f73d
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Tue Aug 23 23:12:19 2022 +0800
+
+    ignorando archivos.exe
+
+commit 943c0c410948aeea332c9c16bd16a6a2bbf852c2
+Author: DennisC96 <109836120+DennisC96@users.noreply.github.com>
+Date:   Tue Aug 23 21:57:34 2022 +0800
+
+    Creando licencia para el repositorio
+
+commit 978a3e715c8abf68dafaf27da512de87165e0619
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Tue Aug 23 21:35:35 2022 +0800
+
+    Agregando mas conténido
+
+commit 7740ed298ba95fba82e64b34a57214d232a0896e
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Tue Aug 23 21:18:45 2022 +0800
+
+    Agregando contenido inicial al README
+
+commit bef90d25ff897b8e27a34b41f1fc4ffffd38c6f8
+Author: Dennis Moreno <dennisesparza86@gmail.com>
+Date:   Tue Aug 23 20:58:11 2022 +0800
+
+    primer commit 😁😁
